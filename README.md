@@ -6,6 +6,7 @@ The grid layout is a CSS layout system that provides a way to create complex web
 # Design a Card
 - hold down + shift : To change all card size at the same time
 <img src="https://github.com/user-attachments/assets/e5baa30a-e27a-48a5-ae1d-d08a97e3a908" alt="Description of image" style="width: 200px; height: auto;">
+
 - Gap: Changing the gap of the card
 
 
